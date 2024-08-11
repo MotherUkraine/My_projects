@@ -1,1 +1,1 @@
-Predicting demand for bikes based on the weather conditions (regression).
+Predicting demand for bikes based on the weather conditions (linear regression)).
